@@ -1,0 +1,10 @@
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.DataAccess.Dapper\bin\Debug\JupiterFramework.DataAccess.Dapper.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.DataAccess.Dapper\bin\Debug\JupiterFramework.DataAccess.Dapper.pdb
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.DataAccess.Dapper\bin\Debug\Dapper.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.DataAccess.Dapper\bin\Debug\Dapper.xml
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.DataAccess.Dapper\obj\Debug\JupiterFramework.DataAccess.Dapper.csprojAssemblyReference.cache
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.DataAccess.Dapper\obj\Debug\JupiterFramework.DataAccess.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.DataAccess.Dapper\obj\Debug\JupiterFramework.DataAccess.Dapper.csproj.CopyComplete
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.DataAccess.Dapper\obj\Debug\JupiterFramework.DataAccess.Dapper.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.DataAccess.Dapper\obj\Debug\JupiterFramework.DataAccess.Dapper.pdb
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.DataAccess.Dapper\bin\Debug\JupiterFramework.DataAccess.Dapper.dll.config

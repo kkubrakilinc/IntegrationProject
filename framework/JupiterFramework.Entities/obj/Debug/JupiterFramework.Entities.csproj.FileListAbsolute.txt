@@ -1,0 +1,12 @@
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.Entities\bin\Debug\JupiterFramework.Entities.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.Entities\bin\Debug\JupiterFramework.Entities.pdb
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.Entities\bin\Debug\JupiterFramework.DataAccess.Dapper.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.Entities\bin\Debug\Dapper.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.Entities\bin\Debug\JupiterFramework.DataAccess.Dapper.pdb
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.Entities\bin\Debug\JupiterFramework.DataAccess.Dapper.dll.config
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.Entities\bin\Debug\Dapper.xml
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.Entities\obj\Debug\JupiterFramework.Entities.csprojAssemblyReference.cache
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.Entities\obj\Debug\JupiterFramework.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.Entities\obj\Debug\JupiterFramework.Entities.csproj.CopyComplete
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.Entities\obj\Debug\JupiterFramework.Entities.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\Framework\JupiterFramework.Entities\obj\Debug\JupiterFramework.Entities.pdb

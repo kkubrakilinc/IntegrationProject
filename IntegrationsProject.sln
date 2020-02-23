@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework", "Framework", "{8572AA60-E200-4D43-9C21-75D1AA470CC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{4952EBBC-8BC8-468B-89BC-B0ADA3910EB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dapper", "Dapper", "{C401DB90-0903-47E1-A3B6-E22956BBA8A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JupiterFramework.DataAccess.Dapper", "Framework\JupiterFramework.DataAccess.Dapper\JupiterFramework.DataAccess.Dapper.csproj", "{1A61E2C7-D0DE-4B65-B8F9-7466D5B535BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{4FFDA6BE-6E2E-41C6-B234-B307DD686D02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{AA0BAA58-CAE8-47FA-9FFD-CE6A94F80828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JupiterServices.Integration.Console", "Services\JupiterServices.Integration.Console\JupiterServices.Integration.Console.csproj", "{0C07DCE0-35E0-4E2B-9437-5489CEA91364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JupiterFramework.Entities", "Framework\JupiterFramework.Entities\JupiterFramework.Entities.csproj", "{CDCEBA02-299D-407C-8681-5280F1FBBA52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ADONET", "ADONET", "{A5231690-5B31-41CC-95B8-1BA8E119CDCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JupiterFramework.DataAccess.Adonet", "JupiterFramework.DataAccess.Adonet\JupiterFramework.DataAccess.Adonet.csproj", "{540BAA44-7E26-464F-AF63-FEAA8166359D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A61E2C7-D0DE-4B65-B8F9-7466D5B535BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A61E2C7-D0DE-4B65-B8F9-7466D5B535BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A61E2C7-D0DE-4B65-B8F9-7466D5B535BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A61E2C7-D0DE-4B65-B8F9-7466D5B535BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C07DCE0-35E0-4E2B-9437-5489CEA91364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C07DCE0-35E0-4E2B-9437-5489CEA91364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C07DCE0-35E0-4E2B-9437-5489CEA91364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C07DCE0-35E0-4E2B-9437-5489CEA91364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCEBA02-299D-407C-8681-5280F1FBBA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCEBA02-299D-407C-8681-5280F1FBBA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCEBA02-299D-407C-8681-5280F1FBBA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCEBA02-299D-407C-8681-5280F1FBBA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540BAA44-7E26-464F-AF63-FEAA8166359D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540BAA44-7E26-464F-AF63-FEAA8166359D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540BAA44-7E26-464F-AF63-FEAA8166359D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540BAA44-7E26-464F-AF63-FEAA8166359D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4952EBBC-8BC8-468B-89BC-B0ADA3910EB4} = {8572AA60-E200-4D43-9C21-75D1AA470CC0}
+		{C401DB90-0903-47E1-A3B6-E22956BBA8A8} = {4952EBBC-8BC8-468B-89BC-B0ADA3910EB4}
+		{1A61E2C7-D0DE-4B65-B8F9-7466D5B535BD} = {C401DB90-0903-47E1-A3B6-E22956BBA8A8}
+		{AA0BAA58-CAE8-47FA-9FFD-CE6A94F80828} = {4FFDA6BE-6E2E-41C6-B234-B307DD686D02}
+		{0C07DCE0-35E0-4E2B-9437-5489CEA91364} = {AA0BAA58-CAE8-47FA-9FFD-CE6A94F80828}
+		{CDCEBA02-299D-407C-8681-5280F1FBBA52} = {4952EBBC-8BC8-468B-89BC-B0ADA3910EB4}
+		{A5231690-5B31-41CC-95B8-1BA8E119CDCE} = {4952EBBC-8BC8-468B-89BC-B0ADA3910EB4}
+		{540BAA44-7E26-464F-AF63-FEAA8166359D} = {A5231690-5B31-41CC-95B8-1BA8E119CDCE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA15292-AB03-4346-BE05-601DE30A8999}
+	EndGlobalSection
+EndGlobal

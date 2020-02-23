@@ -1,0 +1,17 @@
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\bin\Debug\JupiterServices.Integration.Console.exe.config
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\bin\Debug\JupiterServices.Integration.Console.exe
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\bin\Debug\JupiterServices.Integration.Console.pdb
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\bin\Debug\JupiterFramework.DataAccess.Dapper.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\bin\Debug\JupiterFramework.Entities.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\bin\Debug\Dapper.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\bin\Debug\JupiterFramework.DataAccess.Dapper.pdb
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\bin\Debug\JupiterFramework.DataAccess.Dapper.dll.config
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\bin\Debug\JupiterFramework.Entities.pdb
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\bin\Debug\Dapper.xml
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\obj\Debug\JupiterServices.Integration.Console.csprojAssemblyReference.cache
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\obj\Debug\JupiterServices.Integration.Console.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\obj\Debug\JupiterServices.Integration.Console.csproj.CopyComplete
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\obj\Debug\JupiterServices.Integration.Console.exe
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\obj\Debug\JupiterServices.Integration.Console.pdb
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\bin\Debug\JupiterFramework.DataAccess.Adonet.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\Services\JupiterServices.Integration.Console\bin\Debug\JupiterFramework.DataAccess.Adonet.pdb

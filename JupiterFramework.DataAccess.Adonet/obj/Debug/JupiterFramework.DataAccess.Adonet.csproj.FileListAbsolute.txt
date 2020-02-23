@@ -1,0 +1,6 @@
+C:\Users\Kübra\source\repos\IntegrationsProject\JupiterFramework.DataAccess.Adonet\bin\Debug\JupiterFramework.DataAccess.Adonet.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\JupiterFramework.DataAccess.Adonet\bin\Debug\JupiterFramework.DataAccess.Adonet.pdb
+C:\Users\Kübra\source\repos\IntegrationsProject\JupiterFramework.DataAccess.Adonet\obj\Debug\JupiterFramework.DataAccess.Adonet.csprojAssemblyReference.cache
+C:\Users\Kübra\source\repos\IntegrationsProject\JupiterFramework.DataAccess.Adonet\obj\Debug\JupiterFramework.DataAccess.Adonet.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\repos\IntegrationsProject\JupiterFramework.DataAccess.Adonet\obj\Debug\JupiterFramework.DataAccess.Adonet.dll
+C:\Users\Kübra\source\repos\IntegrationsProject\JupiterFramework.DataAccess.Adonet\obj\Debug\JupiterFramework.DataAccess.Adonet.pdb
